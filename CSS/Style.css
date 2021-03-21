@@ -13,7 +13,7 @@ nav {
     text-align: center;
     background-color: black;
     font-weight: bold;
-    color: white;
+    color: #F0EFF2;
 }
 
 .left {
@@ -31,16 +31,17 @@ nav {
 .right {
   height: 1400px;
   float: left;
-  background-color: green;
+  background-color: #F0EFF2;
   width: 70%;
 }
 
 .topblock_element {
-  background-color:greenyellow;
+  background-color: #F0EFF2;
   height: 344px;
+  outline-color: turquoise;
 }
 .bottomblock_element {
-  background-color: hotpink;
+  background-color: #F0EFF2;
   height: 1040px;
 }
 p.pet_stats {
@@ -82,17 +83,21 @@ h1 {
 }
 .lowerpic {
   display: inline-block;
-  margin-left: 50px;
+  margin-left: 20px;
 }
 .gert3 {
   height: 200px;
+  margin: 10px;
 }
 .gert4 {
   height: 200px;
+  margin: 10px;
 }
 .gert5 {
   height: 200px;
+  margin: 10px;
 }
 h2 {
   text-align: center;
+  margin-top: 25px;
 }

@@ -2,13 +2,97 @@ nav {
     height: 50px;
     background-color: lightgrey;
 }
+
+.block_element {
+  background-color: grey;
+}
+
 .inline-block {
     padding: 15px;
     display: inline-block;
     text-align: center;
+    background-color: black;
+    font-weight: bold;
+    color: white;
+}
+
 .left {
+  height: 1400px;
   float: left;
-  height: 500px;
-  background-color: lightgrey;
   width: 29%;
+}
+
+.gert1 {
+  height: 200px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.right {
+  height: 1400px;
+  float: left;
+  background-color: green;
+  width: 70%;
+}
+
+.topblock_element {
+  background-color:greenyellow;
+  height: 344px;
+}
+.bottomblock_element {
+  background-color: hotpink;
+  height: 1040px;
+}
+p.pet_stats {
+  font-weight: bold;
+  margin-left: 10%;
+}
+p.breed {
+  text-align: left;
+  margin-left: 10%;
+}
+p.age {
+  text-align: left;
+  margin-left: 10%;
+}
+p.toy {
+  text-align: left;
+  margin-left: 10%;
+}
+p.walks {
+  text-align: left;
+  margin-left: 10%;
+}
+p.owner {
+  text-align: left;
+  margin-left: 10%;
+}
+h1 {
+  font-weight: bold;
+  font-size: larger;
+}
+.gert2 {
+  float: left;
+  height: 250px;
+  padding-right: 15px;
+  margin-left: 25px;
+}
+.separator {
+  width: 98%;
+}
+.lowerpic {
+  display: inline-block;
+  margin-left: 50px;
+}
+.gert3 {
+  height: 200px;
+}
+.gert4 {
+  height: 200px;
+}
+.gert5 {
+  height: 200px;
+}
+h2 {
+  text-align: center;
 }
